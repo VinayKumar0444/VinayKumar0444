@@ -1,7 +1,7 @@
 # Vinay Kumar Chinthamalla
 
-**AI / Machine Learning Engineer & Data Scientist**  
-*MSc in Data Science — Coventry University, United Kingdom | B.Tech in ECE — NIT Andhra Pradesh*
+**Data Scientist | AI / Machine Learning Engineer | Certified Power BI Data Analyst (PL-300)**  
+*MSc in Data Science — Coventry University, United Kingdom (1/2024 – 3/2025) | B.Tech in ECE — NIT Andhra Pradesh*
 
 [![Email](https://img.shields.io/badge/Email-vinay.k.chinthamalla%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinay.k.chinthamalla@gmail.com)
 [![UK Work Eligibility](https://img.shields.io/badge/UK_Visa-Post--Study_Work_(PSW)_Valid_Until_June_2027-1B365D?style=flat-square)](#)
